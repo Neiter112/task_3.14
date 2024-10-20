@@ -10,6 +10,22 @@ GIT logo by <a rel="nofollow" class="external text" href="https://twitter.com/ja
 -----
 
 
-### Содержание
+### Содержание основных команд в GIT.
 
 1) [Установка и настройка Git](./Installation.md)
+
+2) [Команда Git init](./git_init.md)
+
+3) [Команда Git add](./Git_add.md)
+
+4) [Команда Git commit](./Git_commit.md)
+
+5) [Команда Git remote add](./git_remote_add.md)
+
+6) [Команда Git fetch](./git_fetch.md)
+
+7) [Команда Git merge](./git_merge.md)
+
+8) [Команда Git pull](./git_pull.md)
+
+9) [Команда Git push](./Git_push.md)
