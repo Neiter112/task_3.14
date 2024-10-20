@@ -12,7 +12,7 @@
 
    В консоле необходимо прописать 
    *  git config --global user.name "Your Name"
-   *  git config --global user.email " your_email@whatever.com" 
+   *  git config --global user.email "your_email" 
 
 Делается это один раз и служит для того, что бы все ваши коммиты содержали информацию о вас.
 
